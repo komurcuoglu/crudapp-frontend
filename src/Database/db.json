@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Mehmet Kömürcüoğlu",
+      "username": "rootilleg4l",
+      "email": "komurcuogluuu@hotmail.com",
+      "phone": "5510255317",
+      "id": 1
+    },
+    {
+      "name": "Ahmet Berke",
+      "username": "ahmeteren",
+      "email": "ahmetberke@gmail.com",
+      "phone": "4569874563",
+      "id": 6
+    }
+  ]
+}
